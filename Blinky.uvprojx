@@ -386,6 +386,11 @@
               <FileType>1</FileType>
               <FilePath>.\Blinky.c</FilePath>
             </File>
+            <File>
+              <FileName>BlinkyInfo.txt</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\BlinkyInfo.txt</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -776,6 +781,11 @@
               <FileName>Blinky.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Blinky.c</FilePath>
+            </File>
+            <File>
+              <FileName>BlinkyInfo.txt</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\BlinkyInfo.txt</FilePath>
             </File>
           </Files>
         </Group>
